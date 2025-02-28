@@ -1,11 +1,16 @@
 _repo: A-few-secrets-of-the-metallurgist-simply-told_75326
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75326-h/images/cover.png
 creator:
   author:
     agent_name: Hinkley, Gerald W.
     gutenberg_agent_id: '57948'
     url: http://www.gutenberg.org/2009/agents/57948
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75326#A-few-secrets-of-the-metallurgist-simply-told
 gutenberg_issued: '2025-02-09'
 gutenberg_type: Text
 identifiers:
